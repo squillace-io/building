@@ -4,7 +4,7 @@
 # Uncomment out the sections below to take full advantage of what Porter can do!
 
 name: building-example
-version: 0.1.0
+version: 0.1.1
 description: "An example Porter bundle to configure building properly."
 # TODO: update the registry to your own, e.g. myregistry
 registry: ghcr.io/squillace-io
